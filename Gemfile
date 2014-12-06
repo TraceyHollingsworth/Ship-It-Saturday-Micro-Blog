@@ -26,6 +26,8 @@ gem "simple_form"
 gem "devise"
 # Add Facebook user with OmniAuth
 gem "omniauth-facebook"
+# Adding Flat Design
+gem 'flat-ui-rails'
 
 # bundle exec rake doc:rails generates the API under doc/api.
 gem 'sdoc', '~> 0.4.0',          group: :doc
